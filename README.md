@@ -1,3 +1,2 @@
 # REACT
-Working with React
-Class workout
+Working with React, Class workout.
